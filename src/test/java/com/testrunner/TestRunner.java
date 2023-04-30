@@ -67,6 +67,9 @@ public class TestRunner extends BaseClass {
 		clickWebelement(pom.getDet().getConfirmMail());
 		explicit_wait("visibility", 100,pom.getDet().getContinue_btn());
 	//	isSelected(pom.getDet().getContinue_btn());
+		
+		
+		
 		clickWebelement(pom.getDet().getGot_it());
 		explicit_wait("visibility", 100,pom.getDet().getContinue_btn());
 	//	explicit_wait("visibility", 100,pom.getDet().getGot_it());
