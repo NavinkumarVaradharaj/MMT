@@ -88,12 +88,12 @@ public class TestRunner extends BaseClass {
 	
 	public static void main(String args[]) throws IOException, InterruptedException {
 		
-		browserLaunch();
-		launchUrl();
-		select();
-		date();
-		priceDetails();
-		details();
+//		browserLaunch();
+//		launchUrl();
+//		select();
+//		date();
+//		priceDetails();
+//		details();
 		
 	}
 
