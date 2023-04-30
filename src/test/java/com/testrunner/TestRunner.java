@@ -41,10 +41,8 @@ public class TestRunner extends BaseClass {
 		clickWebelement(pom.getHome().getClose());
 		clickWebelement(pom.getHome().getView_price());
 		clickWebelement(pom.getHome().getBook_now());
-	
 		windowhandle();
-		
-
+	
 	}
 
 	public static void details() throws IOException, InterruptedException {
